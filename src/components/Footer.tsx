@@ -14,7 +14,7 @@ const Footer = () => {
                 <span className="text-white font-playfair font-bold text-xl">🕉</span>
               </div>
               <div>
-                <h3 className="text-2xl font-playfair font-bold text-gold">Sacred Mandirs</h3>
+                <h3 className="text-2xl font-playfair font-bold text-gold">Mandir Murti</h3>
                 <p className="text-sm text-primary-foreground/80">Authentic Temple Craftsmanship</p>
               </div>
             </div>
