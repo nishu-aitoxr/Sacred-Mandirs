@@ -4,7 +4,7 @@ import { ArrowRight, Sparkles } from 'lucide-react';
 
 const Hero = () => {
   return (
-    <section id="home" className="min-h-screen flex items-center justify-center relative overflow-hidden bg-gradient-to-br from-background via-secondary/30 to-gold-light/20">
+    <section id="home" className="min-h-auto flex items-center justify-center relative overflow-hidden bg-gradient-to-br from-background via-secondary/30 to-gold-light/20">
       {/* Background Pattern */}
       <div className="absolute inset-0 mandala-pattern"></div>
       
@@ -27,7 +27,7 @@ const Hero = () => {
           <p className="text-xl md:text-2xl text-muted-foreground mb-8 leading-relaxed animate-fade-in-up" style={{animationDelay: '0.4s'}}>
             Authentic hand-carved wooden temples bringing divine presence
             <br />
-            and traditional craftsmanship to American homes
+            and traditional craftsmanship to Australia homes
           </p>
 
           {/* CTA Buttons */}
@@ -60,7 +60,7 @@ const Hero = () => {
               <div className="w-16 h-16 bg-gold/10 rounded-full flex items-center justify-center mx-auto mb-4">
                 <span className="text-2xl">🏠</span>
               </div>
-              <h3 className="font-playfair font-semibold text-lg mb-2">Perfect for American Homes</h3>
+              <h3 className="font-playfair font-semibold text-lg mb-2">Perfect for Australia Homes</h3>
               <p className="text-muted-foreground">Designed to complement modern living spaces</p>
             </div>
             <div className="text-center">

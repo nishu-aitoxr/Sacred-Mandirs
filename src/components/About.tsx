@@ -21,7 +21,7 @@ const About = () => {
             </h2>
             <p className="text-lg text-muted-foreground mb-6 leading-relaxed">
               For over two decades, our master craftsmen have been creating exquisite wooden mandirs 
-              that bring the divine presence into American homes. Each piece is meticulously hand-carved 
+              that bring the divine presence into Australia homes. Each piece is meticulously hand-carved 
               using traditional techniques passed down through generations.
             </p>
             <p className="text-lg text-muted-foreground mb-8 leading-relaxed">
