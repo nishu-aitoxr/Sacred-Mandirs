@@ -7,7 +7,7 @@ const MainPage: React.FC = () => {
     <div className="bg-[#b2bca4] min-h-screen relative w-full overflow-x-hidden"
 >
       <div className="pt-6 pl-10 pr-10">
-        <div className="flex justify-between gap-[1rem]">
+        <div className="flex justify-between">
           <h1 className="lg:text-[2rem] sm:mt-4 sm:text-[1.8rem]">SACRED HERITAGE</h1>
 
           <div className="flex lg:gap-40 lg:mt-7 lg:text-[1rem] sm:gap-[5rem] sm:text-[1.1rem]   sm:mt-6">
