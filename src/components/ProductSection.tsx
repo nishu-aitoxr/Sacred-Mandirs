@@ -60,10 +60,10 @@ const ProductSection: React.FC<ProductSectionProps> = ({ title, subtitle, produc
             {products.map((product) => (
               <div
                 key={product.id}
-                className="w-[33.33%] flex-shrink-0 px-2 box-border"
+                className="lg:w-[33.33%] flex-shrink-0 lg:px-2 sm:px-10 box-border"
               >
                 <Card className="bg-card border-gold/20 overflow-hidden group h-full cursor-pointer">
-                  <div className="relative h-[40rem] overflow-hidden">
+                  <div className="relative h-[40rem] sm:h-[70rem] overflow-hidden">
                     <img 
                       src={product.image}
                       alt={product.name}
@@ -100,7 +100,7 @@ const ProductSection: React.FC<ProductSectionProps> = ({ title, subtitle, produc
         {/* Right Arrow */}
         <button 
           onClick={() => scroll('right')}
-          className="absolute right-0 top-1/2 -translate-y-1/2 z-10 bg-gray-200 p-2 rounded-full shadow-md hover:bg-gold/90"
+          className="absolute right-0 top-1/2 -translate-y-1/2 z-10 bg-gray-200 p-2 sm:mr-3 rounded-full shadow-md hover:bg-gold/90"
         >
           <ChevronRight className="text-black" />
         </button>
