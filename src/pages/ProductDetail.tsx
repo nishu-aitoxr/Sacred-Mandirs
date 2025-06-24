@@ -30,63 +30,63 @@ const ProductDetail = () => {
        {
       id: 1,
       name: "Traditional Lotus Design",
-      image: "/image-uploads/0d753740-5b3d-4a80-88df-0ab39ea61d9e.jpg",
+      image: "/image-uploads/sitting1.png",
       description: "Exquisitely carved sitting mandir featuring intricate lotus motifs and traditional Indian architectural elements.",
       features: ["Hand-carved lotus details", "Compact design", "Premium wood finish", "Storage compartments"]
     },
     {
       id: 2,
       name: "Royal Heritage Style",
-      image: "/image-uploads/2fb8f716-fb9b-49f7-bc17-4da7a934e912.jpg",
+      image: "/image-uploads/sitting2.webp",
       description: "Ornate sitting mandir with elaborate carvings and royal design elements perfect for home worship.",
       features: ["Royal architectural design", "Intricate panel work", "Multiple deity spaces", "Traditional motifs"]
     },
     {
       id: 3,
       name: "Classic Temple Gate",
-      image: "/image-uploads/d825ca98-d943-43c6-a4a2-5d73078309d9.jpg",
+      image: "/image-uploads/sitting2.webp",
       description: "Beautiful sitting mandir with temple gate design and artistic fan patterns in the doors. Perfect blend of traditional architecture and modern home aesthetics.",
       features: ["Temple gate architecture", "Fan pattern doors", "Elegant proportions", "Sacred geometry"]
     },
     {
   id: 4,
   name: "Compact Sheesham Shrine",
-  image: "/image-uploads/5d3d4f5e-408e-47b5-9a6e-3f8401ef44b5.jpg",
+  image: "/image-uploads/sitting4.webp",
   description: "Premium sheesham wood sitting mandir with minimalist design perfect for modern apartments and small spaces.",
   features: ["Sheesham wood construction", "Minimalist design", "Space-efficient", "Easy assembly"]
 },
 {
   id: 5,
   name: "Ornate Jharokha Style",
-  image: "/image-uploads/f0dafc93-5654-4f2f-95e2-82d86ee60d7b.jpg",
+  image: "/image-uploads/sitting5.webp",
   description: "Rajasthani jharokha-inspired sitting mandir with intricate window patterns and traditional carved details.",
   features: ["Jharokha window design", "Rajasthani patterns", "Detailed carvings", "Authentic craftsmanship"]
 },
 {
   id: 6,
   name: "Corner Compact Temple",
-  image: "/image-uploads/685ca1e9-2256-4abb-822c-edd789714d98.jpg",
+  image: "/image-uploads/sitting6.webp",
   description: "Triangular corner-fit sitting mandir designed specifically for corner placement with maximum space utilization.",
   features: ["Corner-fit design", "Space optimization", "Triangular structure", "Multi-tier storage"]
 },
 {
   id: 7,
   name: "Modern Teak Sanctuary",
-  image: "/image-uploads/8c684406-04c9-4d54-a243-9fcb0463e717.jpg",
+  image: "/image-uploads/sitting7.jpg",
   description: "Contemporary teak wood sitting mandir blending modern aesthetics with traditional spiritual elements.",
   features: ["Premium teak wood", "Modern design", "Clean lines", "Contemporary finish"]
 },
 {
   id: 8,
   name: "Peacock Motif Shrine",
-  image: "/image-uploads/85647fd3-fc34-4ffc-ad5c-123f074f8538.jpg",
+  image: "/image-uploads/sitting7.webp",
   description: "Artistic sitting mandir featuring beautiful peacock carvings and traditional Indian motifs in compact form.",
   features: ["Peacock carvings", "Artistic details", "Traditional motifs", "Compact elegance"]
 },
 {
   id: 9,
   name: "Drawer Storage Temple",
-  image: "/image-uploads/f349adce-faa9-4682-bf80-6a9c8192baa7.jpg",
+  image: "/image-uploads/sitting9.webp",
   description: "Functional sitting mandir with integrated drawer storage for pooja essentials and religious items.",
   features: ["Built-in drawers", "Storage solutions", "Functional design", "Organized worship space"]
 },

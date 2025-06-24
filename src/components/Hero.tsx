@@ -31,7 +31,7 @@ const Hero = () => {
           </p>
 
           {/* CTA Buttons */}
-          <div className="flex flex-col sm:flex-row gap-4 justify-center items-center animate-fade-in-up" style={{animationDelay: '0.6s'}}>
+          <div className="flex lg:flex-row  sm:flex-col gap-4 justify-center items-center animate-fade-in-up" style={{animationDelay: '0.6s'}}>
             <a 
               href="#sitting"
               className="bg-gold hover:bg-gold/90 text-white px-8 py-4 rounded-lg font-medium transition-all duration-300 shadow-xl hover:shadow-2xl flex items-center space-x-2 group"
@@ -48,7 +48,7 @@ const Hero = () => {
           </div>
 
           {/* Features */}
-          <div className="grid grid-cols-1 md:grid-cols-3 gap-8 mt-16 animate-fade-in-up" style={{animationDelay: '0.8s'}}>
+          <div className="flex sm:flex-col md:flex-row  gap-8 mt-16 animate-fade-in-up" style={{animationDelay: '0.8s'}}>
             <div className="text-center">
               <div className="w-16 h-16 bg-gold/10 rounded-full flex items-center justify-center mx-auto mb-4">
                 <span className="text-2xl">🙏</span>

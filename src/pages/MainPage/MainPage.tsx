@@ -4,7 +4,7 @@ import MainPageContent from './MainPageContent';
 
 const MainPage: React.FC = () => {
   return (
-    <div className="bg-[#b2bca4] min-h-screen relative w-full overflow-x-hidden"
+    <div className="bg-[#b2bca4] min-h-screen relative w-full "
 >
       <div className="pt-6 pl-10 pr-10">
         <div className="flex justify-between">
