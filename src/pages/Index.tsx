@@ -18,14 +18,14 @@ const Index = () => {
     {
       id: 2,
       name: "Royal Heritage Style",
-      image: "/image-uploads/sitting2.webp",
+      image: "/image-uploads/sitting6.webp",
       description: "Ornate sitting mandir with elaborate carvings and royal design elements perfect for home worship.",
       features: ["Royal architectural design", "Intricate panel work", "Multiple deity spaces", "Traditional motifs"]
     },
     {
       id: 3,
       name: "Classic Temple Gate",
-      image: "/image-uploads/sitting3.webp",
+      image: "/image-uploads/sitting9.webp",
       description: "Beautiful sitting mandir with temple gate design and artistic fan patterns in the doors. Perfect blend of traditional architecture and modern home aesthetics.",
       features: ["Temple gate architecture", "Fan pattern doors", "Elegant proportions", "Sacred geometry"]
     },
