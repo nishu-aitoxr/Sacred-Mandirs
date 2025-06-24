@@ -25,7 +25,7 @@ const Index = () => {
     {
       id: 3,
       name: "Classic Temple Gate",
-      image: "/image-uploads/sitting9.webp",
+      image: "/image-uploads/sitting4.webp",
       description: "Beautiful sitting mandir with temple gate design and artistic fan patterns in the doors. Perfect blend of traditional architecture and modern home aesthetics.",
       features: ["Temple gate architecture", "Fan pattern doors", "Elegant proportions", "Sacred geometry"]
     },
